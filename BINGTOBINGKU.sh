@@ -2,7 +2,7 @@ clear
 password="BING(BAYU IS KING) "
 until [ "$siapa" = "$password" ]
 do
-  read -p "TULISKAN PASSWORD NYA : " siapa
+  read -p "TULISKAN PASSWORD NYA :" siapa
 done 
 
 
