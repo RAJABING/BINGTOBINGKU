@@ -13,7 +13,7 @@ toilet -f big -F gay SELAMAT DATANG TUAN
 echo $green "1.) MELIHAT TOOLS YG TELAH DIBUAT"
 echo $red "2.) MELIHAT PASSWORD YG SUDAH DIBUAT"
 
-read -p "SILAHKAN DI PILIH TUAN : "tuan
+read -p "SILAHKAN DI PILIH TUAN :"tuan
 
 
 if [ $tuan = 1 ] || [ $tuan = 1 ]
