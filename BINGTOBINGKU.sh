@@ -9,14 +9,15 @@ done
 echo
 toilet -f big -F gay SELAMAT DATANG TUAN
 
-
+echo
 echo $green "1.) MELIHAT TOOLS YG TELAH DIBUAT"
 echo $red "2.) MELIHAT PASSWORD YG SUDAH DIBUAT"
+echo
+read -p "pilihmana:" bro
 
-read -p "SILAHKAN DI PILIH TUAN :"tuan
 
 
-if [ $tuan = 1 ] || [ $tuan = 1 ]
+if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 git clone https://github.com/RAJABING/DAFTAR
