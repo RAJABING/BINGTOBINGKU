@@ -13,7 +13,7 @@ echo
 echo $green "1.) MELIHAT TOOLS YG TELAH DIBUAT"
 echo $red "2.) MELIHAT PASSWORD YG SUDAH DIBUAT"
 echo
-read -p "pilihmana:" bro
+read -p "pilihmana TUAN:" bro
 
 
 
